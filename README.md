@@ -12,3 +12,8 @@ When the clustering algorithms are plotted, the clusters can be seen in differen
 
 ## Example Image
 
+<img src="/img/1.png" width="400">
+
+## Execute
+
+The main method is in "/src/Clustering.java"
